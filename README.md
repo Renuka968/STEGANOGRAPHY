@@ -1,2 +1,2 @@
-SECURE DATA HIDING IN IMAGES USING STEGANOGRAPHY
+SECURE DATA HIDING IN IMAGES USING STEGANOGRAPHY :
 Secure data hiding in images using steganography embeds secret information within digital images without noticeable changes. Techniques like LSB (Least Significant Bit) substitution, DCT (Discrete Cosine Transform), and spread spectrum ensure security. Encryption can enhance protection. Applications include secure communication, watermarking, and digital forensics.
